@@ -1,6 +1,6 @@
 # SQL_Project
 
-## Project Overview: Job Market Analysis Using SQL
+## Project Overview: AI Job Market Analysis Using SQL
 
 ### 📌 Objective  
 This project analyzes the AI job market using SQL queries to uncover insights about job demand, salaries, automation risks, and industry trends. The goal is to provide a data-driven understanding of how AI-related jobs are distributed across industries, locations, and company sizes.
