@@ -1,4 +1,4 @@
-# AI Job Market Analysis 📊
+# AI Job Market Analysis using Python 📊
 
 ## Overview
 This project analyzes the AI job market using SQL queries to uncover insights about job demand, salaries, automation risks, and industry trends.
