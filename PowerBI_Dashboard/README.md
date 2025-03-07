@@ -1,7 +1,7 @@
 # Power BI Dashboard - AI Job Market Insights
 📊 This folder contains the AI Job Market Insights Dashboard built using Power BI.
 
-- **File:** [AI Job Market Insights Dashboard](https://drive.google.com/file/d/1jDyX_-Iw3tVQj1D4QA-6DM3oT6DmoUI0/view?usp=sharing)
+- **File:** [AI Job Market Insights Dashboard](https://github.com/Sandhya-Modha/SQL_Project/blob/main/PowerBI_Dashboard/Power%20Bi%20Dashboard%20Screenshot.png)
 - **Features:**
   - Job demand trends 📈  
   - Salary analysis 💰  
